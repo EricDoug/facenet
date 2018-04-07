@@ -1,3 +1,4 @@
+# _*_ coding:utf-8 _*_
 """Training a face recognizer with TensorFlow using softmax cross entropy loss
 """
 # MIT License

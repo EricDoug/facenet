@@ -1,3 +1,4 @@
+# _*_ coding:utf-8 _*_
 """Validate a face recognizer on the "Labeled Faces in the Wild" dataset (http://vis-www.cs.umass.edu/lfw/).
 Embeddings are calculated using the pairs from http://vis-www.cs.umass.edu/lfw/pairs.txt and the ROC curve
 is calculated and plotted. Both the model metagraph and the model parameters need to exist

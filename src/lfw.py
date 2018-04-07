@@ -1,4 +1,5 @@
-"""Helper for evaluation on the Labeled Faces in the Wild dataset 
+# _*_ coding:utf-8 _*_
+"""Helper for evaluation on the Labeled Faces in the Wild dataset
 """
 
 # MIT License

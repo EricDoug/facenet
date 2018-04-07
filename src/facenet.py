@@ -1,3 +1,4 @@
+# _*_ coding:utf-8 _*_
 """Functions for building the face recognition network.
 """
 # MIT License

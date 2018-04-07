@@ -1,3 +1,4 @@
+# _*_ coding:utf-8 _*_
 """ Tensorflow implementation of the face detection / alignment algorithm found at
 https://github.com/kpzhang93/MTCNN_face_detection_alignment
 """

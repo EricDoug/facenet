@@ -1,3 +1,4 @@
+# _*_ coding:utf-8 _*_
 """Training a face recognizer with TensorFlow based on the FaceNet paper
 FaceNet: A Unified Embedding for Face Recognition and Clustering: http://arxiv.org/abs/1503.03832
 """

@@ -1,3 +1,4 @@
+# _*_ coding:utf-8 _*_
 """Performs face alignment and stores face thumbnails in the output directory."""
 # MIT License
 # 
